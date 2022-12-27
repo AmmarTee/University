@@ -1,6 +1,6 @@
 ﻿namespace University
 {
-    partial class Form1
+    partial class SignUp
     {
         /// <summary>
         ///  Required designer variable.
@@ -62,11 +62,11 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(746, 637);
+            this.button2.Location = new System.Drawing.Point(1157, 637);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(279, 114);
             this.button2.TabIndex = 2;
-            this.button2.Text = "Add Data";
+            this.button2.Text = "Register";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
